@@ -27,7 +27,7 @@
          <use href="#imageBlob" transform="matrix(0.00143057 0 0 0.00226984 0.0404062 0)"/>
       </pattern>
 
-      <!-- Insert your profile (recommended size: 640 x 940) -->
+      
       <image id="imageBlob" width="640" height="925" href=""/>
    </defs>
 </svg>
