@@ -379,6 +379,9 @@ svg {
   transform: translateX(-105px);
 }
 
+.about__data .button{
+  cursor: pointer;
+}
 
 
 
