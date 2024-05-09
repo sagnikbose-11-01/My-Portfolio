@@ -27,7 +27,7 @@
          <use href="#imageBorder" transform="matrix(0.00143057 0 0 0.00226984 0.0404062 0)"/>
       </pattern>
 
-      <!-- Insert your profile (recommended size: 640 x 940) -->
+      
       <image id="imageBorder" width="640" height="940" href=""/>
    </defs>
 </svg>
