@@ -1,4 +1,4 @@
-# CodSoft-Portfolio
+# My-Portfolio
 
 Welcome to my portfolio website! This repository contains the source code for my personal portfolio website, where I showcase my projects, skills, and experience in the field of web development.
 
